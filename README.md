@@ -22,22 +22,35 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo"  />
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=py" height="38" alt="python logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=py" height="38" alt="docker logo"  />
+  <!-- Jupyter Notebook -->
+  <img src="https://skillicons.dev/icons?i=jupyter" height="38" alt="jupyter logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=docker" height="38" alt="pytohn logo"  />
+  <!-- Pandas -->
+  <img src="https://skillicons.dev/icons?i=pandas" height="38" alt="pandas logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="postgres logo"  />
+  <!-- NumPy -->
+  <img src="https://skillicons.dev/icons?i=numpy" height="38" alt="numpy logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mongo" height="38" alt="mongo logo"  />
+  <!-- Matplotlib -->
+  <img src="https://skillicons.dev/icons?i=matplotlib" height="38" alt="matplotlib logo" />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo"  />
+  <!-- Seaborn -->
+  <img src="https://skillicons.dev/icons?i=seaborn" height="38" alt="seaborn logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="38" alt="tensorflow logo"  />
+  <!-- Scikit-Learn -->
+  <img src="https://skillicons.dev/icons?i=sklearn" height="38" alt="scikit-learn logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="38" alt="pytorch logo"  />
+  <!-- TensorFlow -->
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="38" alt="tensorflow logo" />
   <img width="5" />
+  <!-- PyTorch -->
+  <img src="https://skillicons.dev/icons?i=pytorch" height="38" alt="pytorch logo" />
+  <img width="5" />
+  <!-- Keras -->
+  <img src="https://skillicons.dev/icons?i=keras" height="38" alt="keras logo" />
 </div>
 <hr>
 
