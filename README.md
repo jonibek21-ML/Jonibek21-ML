@@ -23,9 +23,9 @@
 
 <div align="center">
   <!-- Python -->
-  <img src="https://skillicons.dev/icons?i=py" height="38" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=python" height="38" alt="python logo" />
   <img width="5" />
-  <!-- Jupyter Notebook -->
+  <!-- Jupyter -->
   <img src="https://skillicons.dev/icons?i=jupyter" height="38" alt="jupyter logo" />
   <img width="5" />
   <!-- Pandas -->
