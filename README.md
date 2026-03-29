@@ -21,41 +21,6 @@
 
 ###
 
-<div align="center">
-  <!-- Python -->
-  <img src="https://skillicons.dev/icons?i=python" height="38" alt="python logo" />
-  <img width="5" />
-  <!-- Jupyter -->
-  <img src="https://skillicons.dev/icons?i=jupyter" height="38" alt="jupyter logo" />
-  <img width="5" />
-  <!-- Pandas -->
-  <img src="https://skillicons.dev/icons?i=pandas" height="38" alt="pandas logo" />
-  <img width="5" />
-  <!-- NumPy -->
-  <img src="https://skillicons.dev/icons?i=numpy" height="38" alt="numpy logo" />
-  <img width="5" />
-  <!-- Matplotlib -->
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="38" alt="matplotlib logo" />
-  <img width="5" />
-  <!-- Seaborn -->
-  <img src="https://skillicons.dev/icons?i=seaborn" height="38" alt="seaborn logo" />
-  <img width="5" />
-  <!-- Scikit-Learn -->
-  <img src="https://skillicons.dev/icons?i=sklearn" height="38" alt="scikit-learn logo" />
-  <img width="5" />
-  <!-- TensorFlow -->
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="38" alt="tensorflow logo" />
-  <img width="5" />
-  <!-- PyTorch -->
-  <img src="https://skillicons.dev/icons?i=pytorch" height="38" alt="pytorch logo" />
-  <img width="5" />
-  <!-- Keras -->
-  <img src="https://skillicons.dev/icons?i=keras" height="38" alt="keras logo" />
-</div>
-<hr>
-
-<hr>
-
 <p align="center">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo"/>
@@ -69,6 +34,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="38" alt="pytorch logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="38" alt="keras logo"/>
 </p>
+
+<hr>
+
+<hr>
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonibek21-ML&theme=cobalt2)
