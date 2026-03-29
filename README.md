@@ -22,8 +22,6 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="38" alt="html5 logo"  />
-  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=py" height="38" alt="docker logo"  />
@@ -34,15 +32,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mongo" height="38" alt="mongo logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="38" alt="kafka logo"  />
-  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=redis" height="38" alt="redis logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="38" alt="rabbitmq logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="38" alt="kubernetes logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="38" alt="tensorflow logo"  />
   <img width="5" />
@@ -54,10 +44,10 @@
 <hr>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjarbek-007&theme=cobalt2)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanjarbek-007&theme=cobalt2) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanjarbek-007&theme=cobalt2)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonibek21-ML&theme=cobalt2)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonibek21-ML&theme=cobalt2) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jonibek21-ML&theme=cobalt2)
 
 
 <div>
-  <img align="right" src="https://komarev.com/ghpvc/?username=Sanjarbek-007&style=for-the-badge" alt="SanjarbekAbduraxmonov" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=jonibek21-ML&style=for-the-badge" alt="SanjarbekAbduraxmonov" />
 </div>
