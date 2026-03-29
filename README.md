@@ -27,9 +27,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="38" alt="jupyter logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38" alt="pandas logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="38" alt="numpy logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="38" alt="matplotlib logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="38" alt="seaborn logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="38" alt="scikit-learn logo"/>
+  <img src="https://matplotlib.org/stable/_images/logo2.svg" height="38" alt="matplotlib logo"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="38" alt="seaborn logo"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="38" alt="scikit-learn logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="38" alt="tensorflow logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="38" alt="pytorch logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="38" alt="keras logo"/>
